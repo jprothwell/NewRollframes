@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: NewRollframes
+## Notes: Reduces the size of your roll frames
+## Title-zhCN: [|CFF33AAFF单体|R] NewRollframes ROLL点美化 
+## Notes-zhCN: ROLL点美化，Ctrl+左键穿戴预览，Shift+左键发送到聊天框
+## Author: 提取自ShaguTweaks拓展插件 ShaguTweaks-mods
+NewRollframes.lua
